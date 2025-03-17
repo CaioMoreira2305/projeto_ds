@@ -4,4 +4,5 @@ Caio Henrique
 2- git status
 3- git add [nome do arquivo] / . / *
 4- git commit -m " [Colocar função] "
-5- git push
+5- git push (Colocar a alteração para a web/git)
+6- git pull (Baixar\Atualizar códigos que outras pessoas alteraram no git)
