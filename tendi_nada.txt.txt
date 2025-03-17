@@ -1,0 +1,6 @@
+Caio
+
+1- git clone [caminho]
+2- git status
+3- git add [nome do arquivo] / . / *
+4- git commit -n
