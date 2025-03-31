@@ -1,0 +1,5 @@
+<?php
+
+    inckude_once
+
+?>

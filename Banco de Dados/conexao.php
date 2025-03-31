@@ -6,12 +6,11 @@
     $password = "ceub123456";
     $db = "aula1";
 
-    $conexao = new PDO('mysql:host='.$host';
-     port=' .$porta.';
-     dbname' .$db, 
-     $user,
-     $password);
-
-    var_dump($conexao);
+    $conexao = new PDO(
+        'mysql:host='.$host.';
+        port='.$porta.';
+        dbname='.$db, 
+        $user,
+        $password);
 
     ?>
