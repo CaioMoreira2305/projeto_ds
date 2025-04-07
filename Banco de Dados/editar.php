@@ -1,5 +1,0 @@
-<?php
-
-    inckude_once
-
-?>

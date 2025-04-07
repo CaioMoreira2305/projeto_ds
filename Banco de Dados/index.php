@@ -27,6 +27,7 @@
 <body>
 
     <form action = "inserir.php" method = "POST">
+        <input type = "hidden" name = "id" value="<?php echo isset($resultItem) ? $resultItem -> id : '' ?>)">
         Nome: <input type = "text" name = "nome" value="<?php echo isset($resultItem) ? $resultItem->nome : '' ?>">
         <br> <br>
         RA: <input type = "number" name = "ra" value="<?php echo isset($resultItem) ? $resultItem->ra : '' ?>">
