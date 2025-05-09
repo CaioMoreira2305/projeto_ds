@@ -1,0 +1,15 @@
+<label for = "operacao"> Escolha uma operação:</label>
+        <select id = "operacao" name = "operacao">
+            <option value = "soma"> Soma</option>
+            <option value = "sub"> Subtração</option>
+            <option value = "mult"> Multiplicação</option>
+            <option value = "div"> Divisão</option> 
+        </select>
+
+
+
+<p>Escolha uma Operação:</p>
+        <label><input type = "radio" name = "operacao" value = "Soma" required> Soma </label>
+        <label><input type = "radio" name = "operacao" value = "Sub"> Subtração </label>
+        <label><input type = "radio" name = "operacao" value = "Mult"> Multiplicação </label>
+        <label><input type = "radio" name = "operacao" value = "Div"> Divisão </label>
