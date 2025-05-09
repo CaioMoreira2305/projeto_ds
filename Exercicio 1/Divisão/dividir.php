@@ -1,0 +1,11 @@
+<?php
+
+    $Numero1 = $_REQUEST['numero1'];
+    $Numero2 = $_REQUEST['numero2'];
+
+    $resultado = $Numero1 / $Numero2;
+
+    echo "<h2><strong> Resultado </strong></h2>";
+    echo "$Numero1 / $Numero2 = $resultado";
+ 
+?>
