@@ -1,0 +1,8 @@
+Caio Henrique
+
+1- git clone [caminho] //Colocar link do repositório do git
+2- git status (Analisa se não há nenhuma distinção entre os arquivos da pasta e os arquivos do git)
+3- git add [nome do arquivo] (Adiciona apenas o arquivo)/ . (Adiciona uma uma pasta) / * (Adiciona tudo)
+4- git commit -m " [Colocar função] "
+5- git push (Colocar a alteração para a web/git)
+6- git pull (Baixar\Atualizar códigos que outras pessoas alteraram no git)
