@@ -9,6 +9,8 @@
     echo "<div style = 'color: red'>" .$c. "</div>";
     echo "<div style = 'color: green'>" .$d. "</div>";
 
+    echo $b += 10;
+
 ?>
 
 <!DOCTYPE html>
